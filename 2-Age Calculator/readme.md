@@ -1,10 +1,10 @@
-# 🗓️ Age Calculator (Go CLI App)
+# Age Calculator (Go CLI App)
 
 This is a simple CLI application written in Go that calculates your age based on your birth year.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Prompts the user to enter their birth year.
 2. Retrieves the current year using Go's `time` package.
@@ -13,7 +13,7 @@ This is a simple CLI application written in Go that calculates your age based on
 
 ---
 
-## 🧪 Example
+##  Example
 
 ```bash
 Hello to Age Calculator App
@@ -29,7 +29,7 @@ You are 22 years old
 
 ---
 
-## 🧰 Tools & Concepts Used
+## Tools & Concepts Used
 
 - `fmt.Scan` for user input
 - `time.Now().Year()` to get the current year
@@ -39,7 +39,7 @@ You are 22 years old
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - Prevents the user from entering a year in the future.
 - No handling for non-integer or empty input yet — could be added later.
@@ -47,7 +47,7 @@ You are 22 years old
 
 ---
 
-## 📁 Project Location
+##  Project Location
 
 This is part of the [`golang-practise-project`](../) repository.  
 
